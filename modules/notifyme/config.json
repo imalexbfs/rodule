@@ -1,7 +1,7 @@
 {
   "rodule_config": {
     "module_name": "notifyme",
-    "version": "1.0",
+    "version": "1v b5 beta",
     "source_file": "source.lua"
   },
   "owner": "1890837605"
