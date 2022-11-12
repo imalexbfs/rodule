@@ -2,7 +2,7 @@
   "rodule_config": {
     "module_name": "notifyme",
     "version": "1.0",
-    "source_file": "https://cdn.imalexbfs.ml/_/module/notifyme"
+    "source_file": "source.lua"
   },
   "owner": "1890837605"
 }
